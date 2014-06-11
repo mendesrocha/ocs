@@ -695,7 +695,7 @@ Ativo indica quantas avaliações estão em consideração ou em andamento.]]></
 	<message key="about.organizingTeam">Comitê Organizador</message>
 	<message key="about.submissions">Submissões</message>
 	<message key="about.sponsors">Patrocinadores</message>
-	<message key="about.contributors">Agências de Fomento</message>
+	<message key="about.contributors">Apoio</message>
 	<message key="about.onlineSubmissions">Submissões online</message>
 	<message key="about.onlineSubmissions.haveAccount">Já possui um Login/Senha de acesso à {$conferenceTitle}?</message>
 	<message key="about.onlineSubmissions.login">Acesso</message>
